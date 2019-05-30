@@ -249,7 +249,7 @@ include $(BUILD_PREBUILT)
 include $(CLEAR_VARS)
 LOCAL_MODULE := Poweramp
 LOCAL_MODULE_OWNER := Poweramp
-LOCAL_SRC_FILES := proprietary/priv-app/Poweramp/Poweramp.apk
+LOCAL_SRC_FILES := proprietary/app/Poweramp/Poweramp.apk
 LOCAL_CERTIFICATE := platform
 LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_CLASS := APPS
